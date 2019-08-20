@@ -27,6 +27,7 @@ end
 
 say_hello_world_ten_times
 
-def greeting
-  puts "Hello World"
+def a_sample_method
+  puts "I am the method body"
 end
+a_sample_method
