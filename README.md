@@ -213,7 +213,7 @@ def greeting
 end
 ```
 
-Save your file and run it with `ruby greeting.rb`. You'll see:
+Save your file and run it with. You'll see:
 
 ```bash
 $ ruby greeting.rb
