@@ -1,11 +1,5 @@
-
-def greeting
-  phrase = "Hello World"
-  puts phrase
+def stylish_chef
+  best_hairstyle = "Guy Fieri"
+  return "Martha Stewart"
+  "Guy Fieri"
 end
-
-greeting
-greeting
-greeting
-greeting
-greeting
