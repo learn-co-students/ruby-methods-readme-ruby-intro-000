@@ -205,8 +205,8 @@ Let's try making a method we can use over and over. Make a new file called
 `greeting.rb` (you can use: `touch greeting.rb` from your terminal). Put the
 following code in it:
 
-File: `greeting.rb`
-
+File: `greeting.rb`e
+''
 ```ruby
 def greeting
   puts "Hello World"
